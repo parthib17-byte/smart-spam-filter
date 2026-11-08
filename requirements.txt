@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+requests
+authlib
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+joblib
+scikit-learn
+pandas
+numpy
