@@ -1,0 +1,12 @@
+credentials.json
+token.json
+processed_emails.json
+.env
+
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+.streamlit/secrets.toml
